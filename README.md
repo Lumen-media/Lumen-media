@@ -28,7 +28,7 @@
 Designed for operators who need to drive a show with one hand while talking. No frozen decks, no second laptop, no internet required.
 
 <p align="center">
-  <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/4449271b-61b0-4d74-b352-a4f9f53d8137" />
+  <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/07f378a4-8dbe-4fc3-b9d3-59dfa61d245b" />
 </p>
 
 ---
