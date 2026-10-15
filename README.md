@@ -28,7 +28,7 @@
 Designed for operators who need to drive a show with one hand while talking. No frozen decks, no second laptop, no internet required.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lumen-media/lumen/main/public/screenshot-main.png" alt="Lumen Screenshot" width="800" />
+  <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/4449271b-61b0-4d74-b352-a4f9f53d8137" />
 </p>
 
 ---
