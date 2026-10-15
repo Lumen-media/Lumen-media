@@ -1,9 +1,9 @@
 {
-  "name": "demo-repo",
-  "version": "0.2.0",
-  "description": "A sample package.json",
+  "name": "lumen-media",
+  "version": "1.0.0",
+  "description": "Lumen Media Organization - Media manager for churches and live events",
   "dependencies": {
     "@primer/css": "17.0.1"
   },
-  "license": "MIT"
+  "license": "Apache-2.0"
 }
